@@ -1,6 +1,6 @@
 # Miscellaneous Reaper Scripts
 
-A collection of miscellaneous scripts for the Reaper Digital Audio Workstation that I created to improve my personal workflow.
+A collection of miscellaneous scripts for the Reaper Digital Audio Workstation that created to improve the Primo Studios workflow.
 
 ## Scripts
 

@@ -63,7 +63,7 @@ if fx_idx then
     Msg("fx_state=" .. fx_state)
 
     if btn_state ~= fx_state then
-        reaper.MB("The Toolbar Button and FX state are out of sync. The button will now be synced to the FX state.", "State Sync Alert", 0)
+        Msg("The Toolbar Button and FX state are out of sync. The button will now be synced to the FX state.")
         Msg("Logic: States differ. Syncing Button to match FX (" .. fx_state .. ")")
         SetButtonState(fx_state)
     else

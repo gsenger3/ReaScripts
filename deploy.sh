@@ -4,6 +4,7 @@
 FILES=(
     "Primo-Monitors FX Toggle.lua"
     "Primo-Headphones FX Toggle.lua"
+    "Primo-Prepare Mastering Session.lua"
 )
 
 # Define destination path
